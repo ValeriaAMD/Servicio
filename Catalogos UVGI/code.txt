@@ -1,0 +1,18 @@
+colores
+nav class="navbar" style="background-color: #5D3891;"
+ <nav class="navbar bg-body-tertiary" nav class="navbar" style="background-color: #5D3891;">
+        <div class="container">
+          <a class="navbar-brand" href="#">
+            <img src="generatedtext (1).png" alt="UVGI" width="30" height="24" >
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#"style="" >Catalogos UVGI</a>
+              </div>
+              <div class="container-fluid">
+                <form class="d-flex" role="search">
+                  <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                  <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+              </div>
+        </a>
+        </div>
+      </nav>
